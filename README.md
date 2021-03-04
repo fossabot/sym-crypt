@@ -4,6 +4,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/sym-crypt.svg)](https://badge.fury.io/rb/sym-crypt)
 [![Downloads](http://ruby-gem-downloads-badge.herokuapp.com/sym-crypt?type=total)](https://rubygems.org/gems/sym-crypt)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkigster%2Fsym-crypt.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkigster%2Fsym-crypt?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/kigster/sym-crypt.svg?branch=master)](https://travis-ci.org/kigster/sym-crypt)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3215796bda088851bfb7/maintainability)](https://codeclimate.com/github/kigster/sym-crypt/maintainability)
@@ -100,6 +101,9 @@ Bug reports and pull requests are welcome on GitHub at [https://github.com/kigst
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT). The library is designed to be a layer on top of [`OpenSSL`](https://www.openssl.org/), distributed under the [Apache Style license](https://www.openssl.org/source/license.txt).
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkigster%2Fsym-crypt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkigster%2Fsym-crypt?ref=badge_large)
+
 ### Acknowledgements
 
  * The blog post [(Symmetric) Encryption With Ruby (and Rails)](http://stuff-things.net/2015/02/12/symmetric-encryption-with-ruby-and-rails/) provided the inspiration for this gem. 
@@ -115,6 +119,3 @@ Please submit feature requests, bugs, or donations :)
 
  * [Konstantin Gredeskoul](http:/kig.re) (primary developer)
  * [Barry Anderson](https://twitter.com/z3ndrag0n) (sanity checking, review)
-
- 
-
